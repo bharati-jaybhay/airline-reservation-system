@@ -1,4 +1,4 @@
 IDE- Eclipse IDE
 Server- Tomcat 10
-Language- java, JSP/Servlet
+Language- Java, JSP/Servlet
 database- MySQL
